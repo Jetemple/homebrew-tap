@@ -10,4 +10,11 @@ cask "scrawl" do
   depends_on formula: "whisper-cpp"
 
   app "Scrawl.app"
+
+  uninstall quit: "com.jetemple.scrawl"
+
+  zap trash: [
+    "~/Library/Preferences/com.jetemple.scrawl.plist",
+    "~/Library/Application Support/Scrawl",
+  ]
 end
