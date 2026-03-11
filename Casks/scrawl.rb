@@ -1,6 +1,6 @@
 cask "scrawl" do
-  version "0.0.4"
-  sha256 "cbd7b359bc3107848eaf8279f66da5d277339f03902b81f90255226d52acb9cf"
+  version "0.0.5"
+  sha256 "69be5255b029e0039163682d97374ea7c6c5976425cff59bd07037912061a924"
 
   url "https://github.com/Jetemple/Scrawl/releases/download/v#{version}/Scrawl-#{version}.zip"
   name "Scrawl"
