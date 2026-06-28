@@ -1,8 +1,8 @@
 cask "scrawl" do
-  version "0.0.9"
-  sha256 "831d622902e586a5c90b50431284d538d5f1e7c5b9951d10ac5649a3cd529c9c"
+  version "0.0.10"
+  sha256 "33ec90dbf7b5dd2271ffda7ca6d29607f7f08f258e15ec06ecfe0364d1a0a0b8"
 
-  url "https://github.com/Jetemple/Scrawl/releases/download/v0.0.9/Scrawl-0.0.9.zip"
+  url "https://github.com/Jetemple/Scrawl/releases/download/v0.0.10/Scrawl-0.0.10.zip"
   name "Scrawl"
   desc "Local-first voice-to-text for macOS"
   homepage "https://github.com/Jetemple/Scrawl"
